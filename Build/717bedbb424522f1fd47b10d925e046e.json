@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "AcePoker",
+"dataUrl": "125cef4c777fe796ac1e2610fe2e2abd.unityweb",
+"wasmCodeUrl": "0de78c7fd758a03fc22e923ba571668e.unityweb",
+"wasmFrameworkUrl": "06abfa4936e085ce461769c9536fc985.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"}
+}
